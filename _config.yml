@@ -1,7 +1,7 @@
 title: "A Programmer's Perspective"
 author: "Sun Chao"
 description: "My personal blog where I share my personal thoughts and progress on programming here."
-lang: "zh-Hans"
+lang: "zh-CN"
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -16,7 +16,7 @@ date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
 dark_theme: true            # enable dark mode
-dark_header: false           # keep the header dark
+dark_header: true           # keep the header dark
 
 navigation:                  # (optional) site navigation in the header
   - index.html

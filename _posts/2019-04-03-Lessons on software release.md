@@ -5,13 +5,14 @@ published: true
 Oh boy, I screwed up bad, like *really* badly. Ok ok, let's go back and see where it all began. I've learnt countless
 lessons from this and I hope you (reader) will too if you're developing your own software.
 
-## Story time!
+## Story time! 哈哈哈哈哈哈哈啊哈哈哈哈哈
+
 2 months ago, I embarked on a journey to write a markdown to PDF converter, called 
 [kMD2PDF](https://omnius-project.github.io/kMD2PDF). The initial architecture was developed such that:
 
 ```
 .md file -> .html file + .css styling -> .pdf
-``` 
+```
 
 In order to facilitate this system, I used 2 libraries:
 

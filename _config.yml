@@ -1,5 +1,5 @@
 title: "A Programmer's Perspective"
-author: "Woo Jia Hao"
+author: "Sun Chao"
 description: "My personal blog where I share my personal thoughts and progress on programming here."
 lang: "en"
 
@@ -24,7 +24,7 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   # envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/woojiahao"
+  github: "https://github.com/sunchao0427"
   # rss: "/contrast/feed.xml"
 
 comments:                    # embed disqus or isso comments

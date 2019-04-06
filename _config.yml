@@ -2,6 +2,7 @@ title: "A Programmer's Perspective"
 author: "Sun Chao"
 description: "My personal blog where I share my personal thoughts and progress on programming here."
 lang: "zh-CN"
+locale: "zh-CN"
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/

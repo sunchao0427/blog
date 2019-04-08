@@ -30,7 +30,7 @@
       {% if path.first %}
         <a href="{{ path.first[1] }}" target="_blank">{{ path.first[0] }}</a>
       {% else %}
-        {% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>
+        {% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">首 页</a>  <!--{{ node.title }}-->
       {% endif %}
     {% endfor %}
     </nav>
